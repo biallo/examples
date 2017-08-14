@@ -1,0 +1,24 @@
+{
+  "name": "examples",
+  "authors": [
+    "Biallo <bialloworld@gmail.com>"
+  ],
+  "description": "",
+  "main": "pad.html",
+  "keywords": [
+    "examples"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "froala-wysiwyg-editor": "^2.6.4"
+  }
+}
